@@ -1,0 +1,2 @@
+# auto_insurance_claim
+The project involved developing a risk analytics model to forecast insurance claims of existing customers for personal auto insurance. For this, multiple models such as Logistic Regression, Random Forest, KNN, XG Boost, and Naive Bayes have been created and explored to check their model performance metrics. Model comparison measures are made for taking interpretation and recommendations from the best model.
